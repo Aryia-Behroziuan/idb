@@ -5,7 +5,7 @@ In early July 2020, Kuwait Source startup published the news of a project in the
 در اوایل ژوئیه سال 2020 استارتاپ کویت سورس خبر از یک پروژه در زمینه امنیت و سیاست های حریم خصوصی کاربران را در صفحه رسمی اریا بهروزیان در اینیستاگرام منتشر کرد کمی بعد تر اریا بهروزیان در یک ویدیو که از یوتیوب منتشر شد جزعیات بیشتری راجب پروژه اعلام کرد طبق گفته توسعه دهندگان و تیم توسعه دهنده این پروژه ، از این سرویس برای ساخت و طراحی پایگاه داده استفاده می شود تا کاربران بتوانند نقشه های پایگاه داده خود را در محیط توسعه نرم افزار با خیال راحت طراحی کنند و اکنون ، در اوایل سال 2021 ، این شرکت تازه وارد خبر از انتشار رسمی این پروژه داد که از ابتدای ماه جدید یعنی در تاریخ 1/2/2021 برای دسترسی عموم فعال می شود و برای استفاده از این پروژه همانند پروژه های قبلی این استارتاپ میتوانید پروژه را از گیت هاب اریا بهروزیان دانلود یا در محیط وب به شکل ایمن اجرا کنید همچنین ، سازندگان این پروژه برای بازیابی پروژه های خود برای امنیت کاربران خود ، اطلاعاتی را ذخیره نمی کنند ، به عبارت دیگر این بدان معناست که این سرویس کاملاً در سمت مشتری و تحت کنترل کاربر است و هیچ گونه تداخلی از طرف استارت آپ و هکرها وارد سرویس نمی شود و درست از لحظه ورود به محیط توسعه برای طراحی نمایه پایگاه داده خود ، این ابزار برای کنترل یا ذخیره چیزی به هیچ سروری متصل نیست. و به گفته اریا 
 بهروزیان این پروژه کاملا ایمن است
 
-### Aryia Behroziuan Creator
+# Aryia Behroziuan Creator
 Artificial intelligence and data mining programmer and specialist working on genetics and in-depth learning projects and natural language processing and computer vision And born in 2007 in Iran And work as an engineer and manager of a QitSource startup development team
 
 ### فارسی
@@ -13,7 +13,7 @@ Artificial intelligence and data mining programmer and specialist working on gen
 تیم توسعه استارت آپ کویت سورس کار می کند
 
 
-### Qitsource | Startup
+# Qitsource | Startup
 This startup operates in the field of bioinformatics, artificial intelligence and biotechnology and is an innovation agency for the growth and development of biotechnology 
 technologies. The development team manager of this startup is Aryia Behroziuan
 
