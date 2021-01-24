@@ -13,7 +13,7 @@ Artificial intelligence and data mining programmer and specialist working on gen
 تیم توسعه استارت آپ کویت سورس کار می کند
 
 
-# Qitsource | Startup
+# Qitsource Inc
 This startup operates in the field of bioinformatics, artificial intelligence and biotechnology and is an innovation agency for the growth and development of biotechnology 
 technologies. The development team manager of this startup is Aryia Behroziuan
 
